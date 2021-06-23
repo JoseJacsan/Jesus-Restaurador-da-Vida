@@ -21,10 +21,10 @@ class _SplashPageState extends State<SplashPage> {
             ),
           ),
         Padding(
-          padding: const EdgeInsets.only(top: 121),
+          padding: const EdgeInsets.only(top: 128),
           child: Center(
             child: Text(
-              "A Bíblia Ensina",
+              "Jesus Restaurador da Vida",
               style: TextStyle(
                 color: AppColors.background,
                 fontSize: 22
